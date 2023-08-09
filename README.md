@@ -9,4 +9,6 @@
 
 ## model
 
-The tumor detector used in this tutorial was trained with Detectron2 using [this dataset](https://universe.roboflow.com/tfg-2nmge/axial-dataset) and following [this step by step tutorial on how to train an object detector with Detectron2 on your custom data](https://youtu.be/I7O4ymSDcGw). The model is available [here](https://drive.google.com/drive/folders/1AMqteyiFt1vKZA5miaQmAqZ4RUjcTu4a?usp=drive_link).
+The tumor detector used in this tutorial was trained with Detectron2 using [this dataset](https://universe.roboflow.com/tfg-2nmge/axial-dataset) and following [this step by step tutorial on how to train an object detector with Detectron2 on your custom data](https://youtu.be/I7O4ymSDcGw). 
+
+The model is available in my [Patreon](https://www.patreon.com/ComputerVisionEngineer).
